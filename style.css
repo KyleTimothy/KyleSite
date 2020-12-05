@@ -1,0 +1,223 @@
+body{
+    font-size: larger;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.navlist a{
+    font-family: 'Fredoka One', cursive;
+    
+
+}
+
+.col-sm-6{
+    border-style: solid;
+    border-color: #005EF5;
+    color:white;
+    font-family: 'Fredoka One', cursive;
+    font-size: xx-large;
+    padding:2em;
+    padding-right: -15em;
+    margin-left: 12em;
+  margin-top: 4em;
+}
+
+
+
+#blueAbout{
+    color:white;
+    
+}
+
+#navyParagraph  h2{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+#black h2{
+    text-align: center;
+    color:white;
+    font-family: 'Fredoka One', cursive;
+}
+
+#work{
+    text-align: center;
+    color:#005ef5;
+    font-family: 'Fredoka One', cursive; 
+   font-size: xx-large;
+
+
+}
+
+
+
+#nav li{
+    list-style: none;
+    display:inline-block;
+    padding:2.0rem;
+    margin-left: -1em;
+    color: #005EF5;
+    font-weight: bolder;
+    text-shadow:
+    0.07em 0 black,
+    0 0.07em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+    font-size: x-large;
+    margin-top: -10em;
+   
+}
+
+#black{
+    
+    background-color: #2E3538;
+}
+.col-sm-12 h1{
+    color: #005EF5;
+    text-align: center;
+    font-weight:400;
+    margin-top: 12rem;
+    text-shadow:
+    0.07em 0 black,
+    0 0.07em black,
+    -0.07em 0 black,
+    0 -0.07em black;
+    font-size: 6rem;
+}
+
+h1 img{
+
+    width:60rem;
+    height: 30rem;
+}
+/* 
+#hero{
+    background-size: 100% 100%;
+    background-attachment: fixed;
+ width: 50em;
+} */
+
+
+.jumbotron{
+    background-size: cover;
+     /* background-image: url("./images/code.jpg");  */
+     background-color: #2E3538;
+    height: 900px;
+    opacity: 0.9;
+    background-image: url("https://scontent.fmem1-1.fna.fbcdn.net/v/t31.0-8/26240316_10211558519620798_6720447489135780598_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=aafKXTsQgvMAX-yfFlk&_nc_ht=scontent.fmem1-1.fna&oh=5eabb3b52cebdef2f0767d2aa18e46c7&oe=5FEFB335");
+
+}
+
+#jobImages{
+    width:23rem;
+    height: 15rem;
+}
+
+#navyLogo img{
+height: 150px;
+margin-left: 30em;
+}
+
+#navyParagraph{
+    background-color: navy;
+    color: white;
+  margin-right: -200em;
+margin:0em; 
+}
+
+.medal img{
+    width:6rem;
+    height: 3.9rem;
+}
+
+.medals li{
+    display: inline-block;
+    padding: 3em;
+}
+
+.jobImages {
+    padding:9em;
+    /* border-radius: 50%; */
+    
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 1em;
+
+
+}
+
+#navyParagraph {
+    font-family: 'Lato', sans-serif;
+    padding:1em;
+    font-size: 23px;
+}
+
+
+ ul{
+display: inline;
+    list-style: none;
+  
+    margin-right:7em;
+}
+
+#aboutPic{
+    padding:2em;
+    border-radius: 50%;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#about{
+    font-family: 'Fredoka One', cursive;
+}
+
+#aboutRow{
+
+    background-color: #005EF5;
+}
+
+.skillSection{
+padding:1em;
+    color:#005ef5;
+    margin:-1em;
+    text-align: center;
+}
+
+.soft{
+    padding:1em;
+    color:#005ef5;
+    margin:-1em;
+    text-align: center;
+}
+
+.sofwareSection{
+    padding:2em;
+}
+
+.col-sm-4{
+    padding: 1em;
+    background-color: #2E3538;
+    
+margin:2em;
+}
+
+
+
+.col-sm-6 p{
+    font-family: 'Lato', sans-serif;
+    padding:1em;
+    font-size: x-large;
+}
+
+hr{
+
+    color:white;
+}
+
+.col-sm-4 #stubbornIMG{
+margin: -9em;
+
+    width: 900px;
+}
