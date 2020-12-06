@@ -102,7 +102,7 @@ h1 img{
      background-color: #2E3538;
     height: 900px;
     opacity: 0.9;
-    background-image: url("https://scontent.fmem1-1.fna.fbcdn.net/v/t31.0-8/26240316_10211558519620798_6720447489135780598_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=aafKXTsQgvMAX-yfFlk&_nc_ht=scontent.fmem1-1.fna&oh=5eabb3b52cebdef2f0767d2aa18e46c7&oe=5FEFB335");
+    background-image: url("https://scontent.fmem1-2.fna.fbcdn.net/v/t31.0-8/24273514_10211285784442589_3776610812674246665_o.jpg?_nc_cat=107&ccb=2&_nc_sid=174925&_nc_ohc=tNCpjgyTxW4AX_Kd05e&_nc_ht=scontent.fmem1-2.fna&oh=08237a97456a71db93cf470747f0bd42&oe=5FF21311");
 
 }
 
@@ -220,4 +220,16 @@ hr{
 margin: -9em;
 
     width: 900px;
+}
+
+#weatherApp{
+padding: 4em;
+margin-right: 20em;
+color: white;
+}
+
+#hotelSite{
+    padding:4em;
+margin-right:1em;
+color:white;
 }
